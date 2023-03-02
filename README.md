@@ -1,4 +1,4 @@
-<h1>A calculator to help estimate paid social campaign costs.</h1> </br></br>
+<h1>A calculator to help estimate paid social campaign costs.</h1> </br>
 
 **Steps:** </br>
 
