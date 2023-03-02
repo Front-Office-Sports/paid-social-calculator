@@ -1,5 +1,6 @@
-A calculator to help estimate paid social campaign costs. </br>
-Steps: </br>
+#A calculator to help estimate paid social campaign costs. </br></br>
+
+**Steps:** </br>
 
 1. Check off the platforms you plan to use. </br>
 2. For selected platforms, enter the number of posts you plan to post, and the target number of impressions you want to reach. </br>
