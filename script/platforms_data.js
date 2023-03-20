@@ -10,9 +10,33 @@ that has a collection of out social platforms and their data.
 const PLATFORMS_DATA_DICT = {
   "Instagram - Public": {
     lowCPM: 2.46,
-    avgCPM: 7.76,
+    avgCPM: 6.92,
     highCPM: 13.06,
-    avgOrganicImpressions: 17055,
+    avgOrganicImpressions: 22993,
+  },
+  "Instagram - Dark Post": {
+    lowCPM: 1.3,
+    avgCPM: 1.64,
+    highCPM: 1.98,
+    avgOrganicImpressions: 0,
+  },
+  "Twitter - Overall": {
+    lowCPM: 0.58,
+    avgCPM: 2.75,
+    highCPM: 6.57,
+    avgOrganicImpressions: 41627,
+  },
+  "TikTok - Overall": {
+    lowCPM: 4.71,
+    avgCPM: 4.73,
+    highCPM: 4.75,
+    avgOrganicImpressions: 3071,
+  },
+  "LinkedIn - Overall": {
+    lowCPM: 7.53,
+    avgCPM: 9.1,
+    highCPM: 10.66,
+    avgOrganicImpressions: 23118,
   },
   // "Instagram - Feed Boost": {
   //   lowCPM: 2.46,
@@ -26,28 +50,4 @@ const PLATFORMS_DATA_DICT = {
   //   highCPM: 12.56,
   //   avgOrganicImpressions: 23439,
   // },
-  "Instagram - Dark Post": {
-    lowCPM: 1.3,
-    avgCPM: 1.64,
-    highCPM: 1.98,
-    avgOrganicImpressions: 0,
-  },
-  "Twitter - Overall": {
-    lowCPM: 0.58,
-    avgCPM: 3.15,
-    highCPM: 6.57,
-    avgOrganicImpressions: 40678,
-  },
-  "TikTok - Overall": {
-    lowCPM: 4.71,
-    avgCPM: 4.73,
-    highCPM: 4.75,
-    avgOrganicImpressions: 4000,
-  },
-  "LinkedIn - Overall": {
-    lowCPM: 7.53,
-    avgCPM: 9.1,
-    highCPM: 10.66,
-    avgOrganicImpressions: 13155,
-  },
 };
